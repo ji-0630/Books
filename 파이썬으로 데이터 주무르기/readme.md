@@ -14,6 +14,10 @@
 ![image](https://user-images.githubusercontent.com/65642065/182363131-c275c3a3-284d-4867-9d40-fb76da610c1e.png)
 
 3. 시카고 샌드위치 맛집 분석
+
+![image](https://user-images.githubusercontent.com/65642065/183851235-fa6dfec8-abed-4ee1-8b7c-ccc23097201b.png)
+
+
 4. 셀프 주유소는 정말 저렴할까
 5. 우리나라 인구 소멸 위기 지역 분석
 6. 19대 대선 결과 분석
