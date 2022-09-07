@@ -24,5 +24,8 @@
 ![image](https://user-images.githubusercontent.com/65642065/188574074-a3a56601-474b-4786-a287-149681644a8a.png)
 
 6. 19대 대선 결과 분석
+
+![image](https://user-images.githubusercontent.com/65642065/188796636-c9289043-7b46-4981-a6a2-58afb8d5abec.png)
+
 7. 시계열 데이터를 다뤄보자
 8. 자연어 처리 시작하기
