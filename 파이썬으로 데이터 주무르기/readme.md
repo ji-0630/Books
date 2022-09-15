@@ -32,3 +32,4 @@
 
 
 8. 자연어 처리 시작하기
+![image](https://user-images.githubusercontent.com/65642065/190324580-0aed7459-c879-4f12-84da-17e668107629.png)
