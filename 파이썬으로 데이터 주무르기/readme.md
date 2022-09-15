@@ -28,4 +28,7 @@
 ![image](https://user-images.githubusercontent.com/65642065/188796636-c9289043-7b46-4981-a6a2-58afb8d5abec.png)
 
 7. 시계열 데이터를 다뤄보자
+![image](https://user-images.githubusercontent.com/65642065/190293631-3b3ed4bb-2cb3-4f02-a828-882a35993db2.png)
+
+
 8. 자연어 처리 시작하기
