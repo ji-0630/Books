@@ -1,16 +1,21 @@
 # Books
 
-
 ### 데이터 분석
 #### 파이썬으로 데이터 주무르기
+<img src="http://image.kyobobook.co.kr/images/book/xlarge/474/x9791186697474.jpg" width="10%" height="20%" align="left" padding = "5%"></img>  
 * 데이터 분석: Pandas, Numpy(회귀)
 * 시각화: Matplotlib, Seaborn, Folium
 * 웹크롤링: Beautiful Soup, Selenium
 * 시계열 예측: Prophet, Seasonal, Growth Model, Holiday Forecast
 * 자연어 처리: KoNLPy
 
+
+---
+
+
 ### 머신러닝
 #### 파이썬 머신러닝 완벽 가이드
+<img src="https://user-images.githubusercontent.com/65642065/212855530-f02026ed-1589-45da-bdc3-b949810bb112.png" width="15%" height="40%" align="left" padding = "5%"></img>  
 * 분류: 의사결정트리, 앙상블, 랜덤포레스트, GBM, XGBoost
 * 회귀
 * 차원축소: PCA, LDA, SVD, NMF
