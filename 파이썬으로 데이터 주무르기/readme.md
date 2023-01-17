@@ -1,10 +1,4 @@
 ## 파이썬으로 데이터 주무르기
-
-### INFO
-
-<img src="http://image.kyobobook.co.kr/images/book/xlarge/474/x9791186697474.jpg" width="40%" height="30%"></img> </br>
-
-### 목차
 1. 서울시 구별 CCTV 현황 분석
 
 ![image](https://user-images.githubusercontent.com/65642065/182362965-97beeaa8-027d-4d68-b8e3-cce7b268d3db.png)
